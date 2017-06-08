@@ -1,0 +1,27 @@
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017/test
+MongoDB server version: 3.4.4
+switched to db test
+result length: 300
+{ "cuisine" : "Pizza/Italian", "name" : "Lb Spumoni Gardens" }
+{ "cuisine" : "Pizza", "name" : "Caesar'S Palace" }
+{ "cuisine" : "Pizza", "name" : "The Grotto" }
+{ "cuisine" : "Pizza", "name" : "Dairy Palace" }
+{ "cuisine" : "Pizza/Italian", "name" : "Uno Chicago Grill" }
+{ "cuisine" : "Pizza", "name" : "Uno Chicago Grill" }
+{ "cuisine" : "Pizza/Italian", "name" : "Pomodoro Ristorante" }
+{ "cuisine" : "Pizza/Italian", "name" : "Bella Napoli" }
+{ "cuisine" : "Pizza", "name" : "Uno Chicago Grill" }
+{ "cuisine" : "Pizza", "name" : "Two Boots To Go-Go" }
+{ "cuisine" : "Pizza", "name" : "Avellino Restaurant" }
+{ "cuisine" : "Pizza", "name" : "Two Boots To Go West" }
+{ "cuisine" : "Pizza/Italian", "name" : "La Casa Bella" }
+{ "cuisine" : "Pizza", "name" : "City Pie" }
+{ "cuisine" : "Pizza/Italian", "name" : "Lombardi'S" }
+{ "cuisine" : "Pizza", "name" : "Costco Wholesale" }
+{ "cuisine" : "Pizza", "name" : "Mama Carmela'S" }
+{ "cuisine" : "Pizza/Italian", "name" : "Tony'S Brick Oven" }
+{ "cuisine" : "Pizza/Italian", "name" : "La Bruschetta Restaurant" }
+{ "cuisine" : "Pizza/Italian", "name" : "Monty Q'S" }
+Type "it" for more
+bye

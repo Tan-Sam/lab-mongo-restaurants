@@ -1,0 +1,13 @@
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017/test
+MongoDB server version: 3.4.4
+[
+	"American",
+	"Bakery",
+	"Italian",
+	"Donuts",
+	"Café/Coffee/Tea",
+	"Chicken",
+	"Chinese"
+]
+bye
