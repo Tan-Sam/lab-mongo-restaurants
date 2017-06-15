@@ -9,8 +9,9 @@ it works?
 #It `works!!!`
 
 Next, I'm testing some kind of putting code to display as code  
+```javascript
     const someVar = require('planning').waterFallChart;
-
+```
 ## Hungry? Find a restaurant!!
 In this lab, you will practise how to use MongoDb queries to find the most suitable restaurant(s) in the provided dataset.
 
