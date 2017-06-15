@@ -12,7 +12,7 @@ Next, I'm testing some kind of putting code to display as code
 ```javascript
     const someVar = require('planning').waterFallChart;
 ```
-But whey this is using 3x \`. so why line 5 works?  
+### But whey this is using 3x \`. so why line 5 works?  
     var imTakingSomething = fromCSHarpLibrary(func);
 ## Hungry? Find a restaurant!!
 In this lab, you will practise how to use MongoDb queries to find the most suitable restaurant(s) in the provided dataset.
