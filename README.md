@@ -1,10 +1,14 @@
 # Lab: Restaurant Primer in MongoDB
 
-## Hungry? Find a restaurant!! 
+## I'm testing markup or down of github readme.
+### So this may seem random, but..  
+    I'm a new line!
+
+## Hungry? Find a restaurant!!
 In this lab, you will practise how to use MongoDb queries to find the most suitable restaurant(s) in the provided dataset.
 
 ## Dataset
-We will use the [Example Dataset from the MongoDb official web site](https://docs.mongodb.org/getting-started/shell/import-data/). 
+We will use the [Example Dataset from the MongoDb official web site](https://docs.mongodb.org/getting-started/shell/import-data/).
 
 1. Fork and Clone this lab repo to your local.
 1. [Download](https://raw.githubusercontent.com/mongodb/docs-assets/primer-dataset/dataset.json) the dataset and save it as `primer-dataset.json` in your local repo folder. We have included this file in your `.gitignore` already so it won't be pushed to your own github repo.
